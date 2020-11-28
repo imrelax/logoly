@@ -5,6 +5,6 @@
 
 <template>
     <div class="description">
-       <h2>A Simple Online Logo Generator</h2>
+       <h2>一个简单的P站徽标生成网站</h2>
     </div>
 </template>
