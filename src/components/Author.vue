@@ -25,7 +25,7 @@ h2
         <div class="info">
             <img class="avatar" src="../assets/avatar.png" alt="bestony">
             <h2> Bestony</h2>
-            <h4>An indie developer / Focus on something interesting.</h4>
+            <h4>通过下方链接可获取本程序作者的联系方式</h4>
         </div>
         <div class="social">
             <a class="github" href="https://github.com/bestony"><i class="iconfont icon-github"></i> GitHub</a>
