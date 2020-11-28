@@ -5,22 +5,22 @@ li
 
 <template>
     <div class="faq">
-        <h3>FAQ</h3>
+        <h3>问答</h3>
         <p>
             <ol>
                 <li>
-                    <p>Q: How to use this generator?</p>
-                    <p>A: The generator is very simple to use. You can get a logo in just 4 steps:</p>
+                    <p>问: 如何使用我们的系统?</p>
+                    <p>答: 我们的系统非常简单;仅需四步即可完成</p>
                         <ul>
-                            <li>Choose a style (e.g. Horizontal/Vertical, Pornhub/Youtube/...).</li>
-                            <li>Edit the text in the center box.</li>
-                            <li>Customize your logo (color, background, font size, etc.).</li>
-                            <li>Finally, click the "Export" button and get the logo of your own.</li>
+                            <li>选择样式（例如，水平/垂直，Pornhub / Youtube /...）</ li>
+                             <li>在中心框中编辑文本。</ li>
+                             <li>自定义徽标（颜色，背景，字体大小等）。</ li>
+                             <li>最后，单击“导出”按钮并获得您自己的徽标。</ li>
                         </ul>
                 </li>
                 <li>
-                    <p>Q: Can I use the generated logo for personal or commercial purposes? </p>
-                    <p>A: The generated logo fully belongs to you. You can use it freely for any purposes. Though credit is always appreciated.</p>
+                    <p>问: 生成的图片个人是否可以使用,能否用于商业项目 </p>
+                    <p>答: 生成的图标的所有权完全属于您,您可以自由使用,但是不推荐您用于商业项目</p>
                 </li>
             </ol>
         </p>
