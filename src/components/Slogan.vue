@@ -19,10 +19,10 @@ p
             <span class="postfix">Pro</span>
         </h3>
         <p>
-            Logoly.pro is a creative logo generator, you can generate logo similar to Pornhub, YouTube, and more.
+            我们是一个在线的徽标生成系统,您可以在这里自由的生成各种pronhub youtube的图标。
             <br><br>
             <strong style="color:#f90">
-            If you think this project is funny, please 
+           如果您喜欢我们的项目请给我们一个星"star"
             <a href="https://github.com/bestony/logoly">
             <img src="https://img.shields.io/badge/give%20me-a%20star-green.svg" />
             </a>
