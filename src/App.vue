@@ -9,7 +9,7 @@
     </div>
     <div id="nav">
       <div class="menu">
-        <router-link to="/about">About</router-link>
+        <router-link to="/about">关于</router-link>
         <router-link to="/" class="pb">
           <span class="prefix">Porn</span>
           <span class="postfix">hub</span>
@@ -22,7 +22,7 @@
           <span class="prefix">You</span>
           <span class="postfix">Tube</span>
         </span>
-        <span class="disable">More coming soon...</span>
+        <span class="disable">更多风格....</span>
       </div>
     </div>
     <router-view class="container"/>
