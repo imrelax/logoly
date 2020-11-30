@@ -5,5 +5,5 @@ p
 </style>
 
 <template>
-    <p>© Bestony 2019 <a href="https://bitbear.net/?refcode=1ndyezv73" target="_blank">比特熊,微服务</a></p>
+    <p>© Bestony 2019 <a href="http://www.v2vpn.xyz" target="_blank">V2VPN提供服务</a></p>
 </template>
