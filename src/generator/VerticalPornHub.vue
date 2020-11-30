@@ -66,7 +66,7 @@
 
 <template>
     <div class="pornhub">
-        <div class="box" v-tooltip="{content:'Edit the text to create your own logo', show: true, classes: 'tooltipClasses'}">
+        <div class="box" v-tooltip="{content:'编辑文字以创建自己的徽标', show: true, classes: 'tooltipClasses'}">
             <div class="editarea" id="logo" :style="{'font-size':fontSize + 'px','background-color':transparentBgColor}">
                 <template v-if="!reverseHighlight">
                 <p class="prefix"  @input="updatePrefix" :style="{'color':prefixColor}"  contenteditable>{{prefixText}}</p>
