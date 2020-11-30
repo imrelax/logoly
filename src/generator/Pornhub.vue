@@ -76,7 +76,7 @@
     <div
       class="box"
       v-tooltip="{
-        content: 'Edit the text to create your own logo',
+        content: '编辑文字以创建自己的徽标',
         show: true,
         classes: 'tooltipClasses',
       }"
